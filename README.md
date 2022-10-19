@@ -1,5 +1,7 @@
 # README
 
+Солодовников Андрей групаа 4411, 2 лаб работа
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
